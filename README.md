@@ -5,8 +5,9 @@ A modern, fast, and fully responsive **Next.js Developer Portfolio** to showcase
 ---
 
 ## 🌐 Live Demo
-**Live Site:** [https://your-portfolio-url.com](https://your-portfolio-url.com)  
-**GitHub Repo:** [https://github.com/SowvikSuvo/your-portfolio](https://github.com/SowvikSuvo/your-portfolio)  
+
+**Live Site:** [https://suvo-karmoker-portfolio.vercel.app/](https://suvo-karmoker-portfolio.vercel.app/)  
+**GitHub Repo:** [https://github.com/SowvikSuvo/Sowvik-Suvo---portfolio-.git](https://github.com/SowvikSuvo/Sowvik-Suvo---portfolio-.git)
 
 ---
 
@@ -24,6 +25,3 @@ A modern, fast, and fully responsive **Next.js Developer Portfolio** to showcase
 - 🖼 Optimized Images with `next/image`
 
 ---
-
-
-
