@@ -12,6 +12,10 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "SUVO KARMOKER",
   description: "This is the portfolio of SUVO KARMOKER.",
+  icons: {
+    icon: "/Logo-removebg-preview.png",
+    apple: "/Logo-removebg-preview.png",
+  },
 };
 
 export default function RootLayout({ children }) {

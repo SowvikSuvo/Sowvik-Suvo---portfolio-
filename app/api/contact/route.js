@@ -53,7 +53,7 @@ export async function POST(req) {
             <!-- Logo -->
             <tr>
               <td style="text-align:center;padding-bottom:20px;">
-                <img src="https://i.ibb.co.com/FqNWnYJv/banear.jpg" alt="Sowvik Suvo Logo" width="86" style="border-radius:50%;border:3px solid #2aa1ff;" />
+                <img src="https://i.ibb.co.com/7JhZbJwn/Logo.png" alt="Sowvik Suvo Logo" width="86" style="border-radius:50%;border:3px solid #2aa1ff;" />
               </td>
             </tr>
 
@@ -95,7 +95,7 @@ export async function POST(req) {
             <!-- CTA Button -->
             <tr>
               <td style="text-align:center;padding:20px 0;">
-                <a href="https://tufayleahmed.me" target="_blank" class="cta-link" style="display:inline-block;background:linear-gradient(90deg,#2aa1ff,#7b59ff);color:#ffffff;padding:14px 32px;border-radius:999px;font-weight:700;text-decoration:none;box-shadow:0 10px 30px rgba(122,100,255,0.3);transition:all 200ms ease;">
+                <a href="https://suvo-karmoker-portfolio.vercel.app/" target="_blank" class="cta-link" style="display:inline-block;background:linear-gradient(90deg,#2aa1ff,#7b59ff);color:#ffffff;padding:14px 32px;border-radius:999px;font-weight:700;text-decoration:none;box-shadow:0 10px 30px rgba(122,100,255,0.3);transition:all 200ms ease;">
                   View My Portfolio →
                 </a>
               </td>
@@ -116,7 +116,7 @@ export async function POST(req) {
                 </p>
                 <p style="margin:15px 0 0;color:#223244;font-size:15px;">
                   <strong>Suvo Karmoker Sowvik</strong><br>
-                  <span style="font-size:13px;color:#6b7a90;">MERN-Stack Web Developer •</span>
+                  <span style="font-size:13px;color:#6b7a90;">MERN - Stack Web Developer •</span>
                 </p>
               </td>
             </tr>

@@ -18,7 +18,7 @@ export const projectsData = [
     role: "MERN Stack Developer",
     code: "https://github.com/SowvikSuvo/social-events-client.git",
     demo: "https://harmonious-lebkuchen-d713e8.netlify.app/",
-    image: "/social.png",
+    image: "/social4.png",
   },
   {
     id: 2,

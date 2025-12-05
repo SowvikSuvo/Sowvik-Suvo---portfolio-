@@ -74,7 +74,7 @@ import expressjs from "../app/assets/svg/skills/icons8-express-js.svg";
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
-    case "expressjs":
+    case "express js":
       return expressjs;
     case "html":
       return html;
